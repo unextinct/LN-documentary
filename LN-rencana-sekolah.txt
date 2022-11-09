@@ -1,7 +1,8 @@
 rencana pembangunan sekolah
 
 - target masyarakat yg kurang mampu
-- tujuan untuk mendapatkan ijazah
+- tujuan sekolah
+* menghilangkan buta huruf
 - penyetaraan
 * mendapatkan ijazah
 * mendapatkan pengakuan
