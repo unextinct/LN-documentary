@@ -1,9 +1,10 @@
 rencana pembangunan sekolah
 
 - target masyarakat yg kurang mampu
-- tujuan untuk mendapatkan ijazah
+- tujuan sekolah
+* mendapatkan ijazah
+* mencari kehormatan
 - penyetaraan
 * mendapatkan ijazah
-* mendapatkan pengakuan
 - donatur
 * pengisi utama dana sekolah
