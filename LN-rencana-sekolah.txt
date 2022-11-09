@@ -6,3 +6,4 @@ rencana pembangunan sekolah
 * mendapatkan ijazah
 * mendapatkan pengakuan
 - donatur
+* pengisi utama dana sekolah
